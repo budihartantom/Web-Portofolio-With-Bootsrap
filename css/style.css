@@ -16,11 +16,12 @@ hr {
 }
 
 section {
-  min-height: 600px;
+  min-height: 400px;
 }
 
 .portofolio {
   background-color: #eee;
+  min-height: 600px;
 }
 
 .contact {
@@ -44,4 +45,8 @@ footer p {
 .img-thumbnail {
   margin-top: 30px;
   background-color: #eee;
+}
+
+.text-center {
+  padding-top: 20px;
 }
