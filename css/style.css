@@ -40,3 +40,8 @@ footer p {
   color: #aaa;
   font-size: 0.9em;
 }
+
+.img-thumbnail {
+  margin-top: 30px;
+  background-color: #eee;
+}
